@@ -6,11 +6,18 @@ This repository contains a series of empirical analysis projects focused on the 
 
 Project List
 1.Empirical Analysis of Return Distribution in the Chinese Stock Market
+
 2.Empirical Testing of the Single-Factor Asset Pricing Model in the Chinese Stock Market
+
 3.Empirical Testing of the Three-Factor Asset Pricing Model in the Chinese Stock Market
+
 4.Empirical Testing of Return Predictability in the Chinese Stock Market
+
 5.Estimation and Testing of Conditional Volatility in the Chinese Stock Market
+
 6.Web Scraping Experiment
+
 7.Estimation and Testing of Conditional Volatility Models in the Chinese Stock Market
+
 8.Description: Estimated and tested conditional volatility models to analyze their applicability.
 
