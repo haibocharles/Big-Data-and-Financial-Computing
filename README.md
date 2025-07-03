@@ -19,5 +19,3 @@ Project List
 
 7.Estimation and Testing of Conditional Volatility Models in the Chinese Stock Market
 
-8.Description: Estimated and tested conditional volatility models to analyze their applicability.
-
